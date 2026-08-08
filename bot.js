@@ -20,8 +20,8 @@ const fetch = require("node-fetch");
 
 // IMPORTANT: Railway uses environment variables.
 // Set TOKEN in Railway → Variables
-const TOKEN = process.env.TOKEN;
-const CLIENT_ID = process.env.CLIENT_ID; // Add this in Railway too
+const TOKEN = "MTUxNjEyNTM3Mjg1NTYxOTY5NA.GsMc9H.ABUAVX269mtcu-yzOeh3nMopzX49peQ9nfJ5KY";
+const CLIENT_ID = "1516125372855619694"; // Add this in Railway too
 
 const ADMIN_ROLE_ID = "1515058338340278342";
 const PREMIUM_ROLE_ID = "1517742225998614599";
